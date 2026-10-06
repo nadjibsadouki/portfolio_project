@@ -65,4 +65,4 @@ npm run dev
 ## Contact
 
 **Nadjib Sadouki**  
-[nadjibsadouki92@gmail.com](mailto:nadjibsadouki92@gmail.com)
+[sadoukinadjib2005@gmail.com](mailto:nadjibsadouki92@gmail.com)
